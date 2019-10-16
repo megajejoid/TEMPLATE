@@ -1,0 +1,11 @@
+table {
+    border: solid black;
+    border-collapse: collapse;
+}
+td {
+    border: solid black;
+    width: 250px;
+}
+.elc {
+    height: 70px;
+}
